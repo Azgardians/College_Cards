@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88e4fc342df2708dc992ed186d47e92b",
+    "revision": "8df368cffe01c34207f17c2fcc5043d5",
     "url": "/College_Cards/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/College_Cards/static/css/2.bba62818.chunk.css"
   },
   {
-    "revision": "7f667a51a786768efa56",
+    "revision": "fdc484643cddd72a31b1",
     "url": "/College_Cards/static/css/main.afbea801.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/College_Cards/static/js/2.56996592.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7f667a51a786768efa56",
-    "url": "/College_Cards/static/js/main.f76df37a.chunk.js"
+    "revision": "fdc484643cddd72a31b1",
+    "url": "/College_Cards/static/js/main.fde21810.chunk.js"
   },
   {
     "revision": "b9d4e6adcd182294d442",

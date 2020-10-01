@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/College_Cards/static/css/main.afbea801.chunk.css",
-    "main.js": "/College_Cards/static/js/main.f76df37a.chunk.js",
-    "main.js.map": "/College_Cards/static/js/main.f76df37a.chunk.js.map",
+    "main.js": "/College_Cards/static/js/main.fde21810.chunk.js",
+    "main.js.map": "/College_Cards/static/js/main.fde21810.chunk.js.map",
     "runtime-main.js": "/College_Cards/static/js/runtime-main.b594091f.js",
     "runtime-main.js.map": "/College_Cards/static/js/runtime-main.b594091f.js.map",
     "static/css/2.bba62818.chunk.css": "/College_Cards/static/css/2.bba62818.chunk.css",
     "static/js/2.56996592.chunk.js": "/College_Cards/static/js/2.56996592.chunk.js",
     "static/js/2.56996592.chunk.js.map": "/College_Cards/static/js/2.56996592.chunk.js.map",
     "index.html": "/College_Cards/index.html",
-    "precache-manifest.0ece0db453dc1e4de7f3feecf04d915d.js": "/College_Cards/precache-manifest.0ece0db453dc1e4de7f3feecf04d915d.js",
+    "precache-manifest.2500050d9ca0320f49518b6ce4fe9ab9.js": "/College_Cards/precache-manifest.2500050d9ca0320f49518b6ce4fe9ab9.js",
     "service-worker.js": "/College_Cards/service-worker.js",
     "static/css/2.bba62818.chunk.css.map": "/College_Cards/static/css/2.bba62818.chunk.css.map",
     "static/css/main.afbea801.chunk.css.map": "/College_Cards/static/css/main.afbea801.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.bba62818.chunk.css",
     "static/js/2.56996592.chunk.js",
     "static/css/main.afbea801.chunk.css",
-    "static/js/main.f76df37a.chunk.js"
+    "static/js/main.fde21810.chunk.js"
   ]
 }
