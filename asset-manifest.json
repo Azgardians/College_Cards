@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/College_Cards/static/css/main.8992ae0e.chunk.css",
+    "main.js": "/College_Cards/static/js/main.7c78509d.chunk.js",
+    "main.js.map": "/College_Cards/static/js/main.7c78509d.chunk.js.map",
+    "runtime-main.js": "/College_Cards/static/js/runtime-main.b594091f.js",
+    "runtime-main.js.map": "/College_Cards/static/js/runtime-main.b594091f.js.map",
+    "static/js/2.558a0098.chunk.js": "/College_Cards/static/js/2.558a0098.chunk.js",
+    "static/js/2.558a0098.chunk.js.map": "/College_Cards/static/js/2.558a0098.chunk.js.map",
+    "index.html": "/College_Cards/index.html",
+    "precache-manifest.6e76aeb256c6cee8b886812a6ef203ca.js": "/College_Cards/precache-manifest.6e76aeb256c6cee8b886812a6ef203ca.js",
+    "service-worker.js": "/College_Cards/service-worker.js",
+    "static/css/main.8992ae0e.chunk.css.map": "/College_Cards/static/css/main.8992ae0e.chunk.css.map",
+    "static/js/2.558a0098.chunk.js.LICENSE.txt": "/College_Cards/static/js/2.558a0098.chunk.js.LICENSE.txt",
+    "static/media/CollegeCard.css": "/College_Cards/static/media/college_02.619ee97e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b594091f.js",
+    "static/js/2.558a0098.chunk.js",
+    "static/css/main.8992ae0e.chunk.css",
+    "static/js/main.7c78509d.chunk.js"
+  ]
+}
