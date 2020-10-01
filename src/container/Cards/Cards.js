@@ -3,13 +3,12 @@ import Data from '../../assets/colleges.json'
 import CollegeCard from './CollegeCard'
 
 const colleges = Data.colleges;
-console.log(colleges);
+
 const Cards = (props) => {
     return(
         <div style={{display:"flex",flexDirection:"column"}}>
             {colleges.map(college => (
                 <CollegeCard college={college}/>
-
             ))}
         </div>
     )

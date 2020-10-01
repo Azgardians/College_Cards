@@ -5,7 +5,6 @@ const collegeCard = (props) => {
     const {
         college_name,
         promoted,
-        discount,
         original_fees,
         discounted_fees,
         fees_cycle,
