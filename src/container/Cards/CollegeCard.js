@@ -16,7 +16,7 @@ const collegeCard = (props) => {
         famous_nearest_places, 
         nearest_place,
         offertext
-    } = props.college
+    } = props
     const amentiesString = amenties.join(" ")
     return(
         <div style={{display:"flex"}}>
