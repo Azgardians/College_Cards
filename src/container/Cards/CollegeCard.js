@@ -46,7 +46,7 @@ const collegeCard = (props) => {
                 <div className="card_bottom">
                     <div className="left">
                         <h3>{college_name}</h3>
-                        <p style={{marginBottom: "8px", fontSize:"13px" , marginTop:"0px"}}>{nearest_place[0]} | {nearest_place[1]}</p>
+                        <p style={{marginBottom: "8px", fontSize:"13px" , marginTop:"0px"}}>{nearest_place[0]} | <span style={{color:"#adadad"}}>{nearest_place[1]}</span></p>
                         <p style={{fontSize:"13px"}}><span style={{color: "#1999d2", fontWeight:"bolder"}}>93% Match : </span>{famous_nearest_places}</p>
                     </div>
                     <div className="right">
