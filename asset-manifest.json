@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/College_Cards/static/css/main.afbea801.chunk.css",
-    "main.js": "/College_Cards/static/js/main.fde21810.chunk.js",
-    "main.js.map": "/College_Cards/static/js/main.fde21810.chunk.js.map",
+    "main.css": "/College_Cards/static/css/main.b4323482.chunk.css",
+    "main.js": "/College_Cards/static/js/main.cd4a43b9.chunk.js",
+    "main.js.map": "/College_Cards/static/js/main.cd4a43b9.chunk.js.map",
     "runtime-main.js": "/College_Cards/static/js/runtime-main.b594091f.js",
     "runtime-main.js.map": "/College_Cards/static/js/runtime-main.b594091f.js.map",
     "static/css/2.bba62818.chunk.css": "/College_Cards/static/css/2.bba62818.chunk.css",
     "static/js/2.56996592.chunk.js": "/College_Cards/static/js/2.56996592.chunk.js",
     "static/js/2.56996592.chunk.js.map": "/College_Cards/static/js/2.56996592.chunk.js.map",
     "index.html": "/College_Cards/index.html",
-    "precache-manifest.3fe8d9946ea99c6ddb5ea6ccd12e0e25.js": "/College_Cards/precache-manifest.3fe8d9946ea99c6ddb5ea6ccd12e0e25.js",
+    "precache-manifest.88e41430aa0d798e469d48ca2c6253d7.js": "/College_Cards/precache-manifest.88e41430aa0d798e469d48ca2c6253d7.js",
     "service-worker.js": "/College_Cards/service-worker.js",
     "static/css/2.bba62818.chunk.css.map": "/College_Cards/static/css/2.bba62818.chunk.css.map",
-    "static/css/main.afbea801.chunk.css.map": "/College_Cards/static/css/main.afbea801.chunk.css.map",
+    "static/css/main.b4323482.chunk.css.map": "/College_Cards/static/css/main.b4323482.chunk.css.map",
     "static/js/2.56996592.chunk.js.LICENSE.txt": "/College_Cards/static/js/2.56996592.chunk.js.LICENSE.txt",
     "static/media/CollegeCard.css": "/College_Cards/static/media/college_02.619ee97e.jpg",
     "static/media/font-awesome.min.css": "/College_Cards/static/media/fontawesome-webfont.fee66e71.woff"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.b594091f.js",
     "static/css/2.bba62818.chunk.css",
     "static/js/2.56996592.chunk.js",
-    "static/css/main.afbea801.chunk.css",
-    "static/js/main.fde21810.chunk.js"
+    "static/css/main.b4323482.chunk.css",
+    "static/js/main.cd4a43b9.chunk.js"
   ]
 }
