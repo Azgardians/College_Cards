@@ -20,7 +20,7 @@ const collegeCard = (props) => {
     } = props
     const amentiesString = amenties.join(" ")
     return(
-        <div style={{display:"flex"}}>
+        <div style={{display:"flex"}} className="container">
             <div className="card_wrapper">
                 <div className="card_top">
                     <div className="promote">

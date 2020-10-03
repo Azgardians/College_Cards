@@ -118,3 +118,12 @@
     font-weight: bolder;
     padding: 10px;
 }
+
+@media only screen and (max-width: 999px){
+    .container {
+        flex-direction: column;
+    }
+    .card_wrapper {
+        width: 95%;
+    }
+}
